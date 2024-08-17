@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data
 !["Multi-Collinearity between Numerical Features"](Outputs/MultiCollinearity_between_Numerical_Variables.png "Multi-Collinearity Between Numerical Features")
 
 ## Bar Charts of Categorical Features
-!["Bar Charts of Categorical Features"](Outputs\Composite_bar_categorical_variables.png Bar Charts of Categorical Features) 
+!["Bar Charts of Categorical Features"](Outputs/Composite_bar_categorical_variables.png "Bar Charts of Categorical Features") 
 
 ## Scatter Plot of Predicted Values Vs Actual Values (Linear Regression Model)
 !["Scatter Plot of Predicted Values Vs Actual Values (Linear Regression Model)"](Outputs/Scatter_Plot_LR.png "Scatter Plot of Predicted Values Vs Actual Values (Linear Regression Model)")
